@@ -1,2 +1,2 @@
 # svelte-css-ground-zero
-some baseline styles to go with working on svelte projects
+Some copy, paste and forget baseline CSS rules to go with working on svelte projects. 
